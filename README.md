@@ -1,1 +1,1 @@
-# MinFunction-Eloquent-Javascript-Exercise4
+# MinFunction-Eloquent-JavaScript-Exercise4
